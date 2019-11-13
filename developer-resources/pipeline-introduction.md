@@ -83,6 +83,8 @@ There are several reasons to use Azure Pipelines for your CI and CD solution. Yo
 
 Resources
 
+[SFPowerscripts](https://www.sfpowerscripts.com/) is an Azure Pipelines Extension that converts Azure Pipelines into a CI/CD platform for Salesforce. You can install the extension from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AzlamSalam.sfpowerscripts)
+
 For SFDX development & deployment Questions and Discussions
 
 [Chatter Profile](https://success.salesforce.com/ProfileView?u=0053A00000E3aWUQAZ)
